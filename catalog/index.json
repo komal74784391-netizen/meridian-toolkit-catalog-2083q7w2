@@ -1,5 +1,54 @@
 {
   "catalog_version": 4,
   "updated_at": "2026-10-28T09:00:00Z",
-  "entries": []
+  "entries": [
+    {
+      "artifact_id": "MTX-2101",
+      "display_name": "Tidewater Runtime Gateway",
+      "family": "Runtime & Serving",
+      "repository": "komal74784391-netizen/meridian-tidewater-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    },
+    {
+      "artifact_id": "MTX-2102",
+      "display_name": "Quartzline Feature Pipeline",
+      "family": "Data & Pipelines",
+      "repository": "komal74784391-netizen/meridian-quartzline-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    },
+    {
+      "artifact_id": "MTX-2103",
+      "display_name": "Sablefish Safety Harness",
+      "family": "Safety & Evaluation",
+      "repository": "komal74784391-netizen/meridian-sablefish-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    },
+    {
+      "artifact_id": "MTX-2104",
+      "display_name": "Harborlight Trace Exporter",
+      "family": "Safety & Evaluation",
+      "repository": "komal74784391-netizen/meridian-harborlight-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    },
+    {
+      "artifact_id": "MTX-2105",
+      "display_name": "Copperfern Training Accelerator",
+      "family": "Training & Optimization",
+      "repository": "komal74784391-netizen/meridian-copperfern-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    },
+    {
+      "artifact_id": "MTX-2106",
+      "display_name": "Willow Query Cache",
+      "family": "Runtime & Serving",
+      "repository": "komal74784391-netizen/meridian-willow-2083q7w2",
+      "release_url": null,
+      "published_version": null
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
-  "artifact_id": "",
-  "display_name": "",
-  "family": "",
-  "repository": "",
-  "release_url": null,
-  "published_version": null
+  "artifact_id": "stable public identifier",
+  "display_name": "public display name",
+  "family": "stewardship family",
+  "repository": "owner/repository",
+  "release_url": "canonical repository URL once listed, otherwise null",
+  "published_version": "published version once listed, otherwise null"
 }
