@@ -1,22 +1,22 @@
 {
   "catalog_version": 4,
-  "updated_at": "2026-11-17T08:15:00Z",
+  "updated_at": "2026-10-28T09:00:00Z",
   "entries": [
     {
       "artifact_id": "MTX-2101",
       "display_name": "Tidewater Runtime Gateway",
       "family": "Runtime & Serving",
       "repository": "komal74784391-netizen/meridian-tidewater-2083q7w2",
-      "release_url": "https://github.com/komal74784391-netizen/meridian-tidewater-2083q7w2",
-      "published_version": "1.5.2"
+      "release_url": null,
+      "published_version": null
     },
     {
       "artifact_id": "MTX-2102",
       "display_name": "Quartzline Feature Pipeline",
       "family": "Data & Pipelines",
       "repository": "komal74784391-netizen/meridian-quartzline-2083q7w2",
-      "release_url": "https://github.com/komal74784391-netizen/meridian-quartzline-2083q7w2",
-      "published_version": "2.1.0"
+      "release_url": null,
+      "published_version": null
     },
     {
       "artifact_id": "MTX-2103",
@@ -39,8 +39,8 @@
       "display_name": "Copperfern Training Accelerator",
       "family": "Training & Optimization",
       "repository": "komal74784391-netizen/meridian-copperfern-2083q7w2",
-      "release_url": "https://github.com/komal74784391-netizen/meridian-copperfern-2083q7w2",
-      "published_version": "1.2.0"
+      "release_url": null,
+      "published_version": null
     },
     {
       "artifact_id": "MTX-2106",
